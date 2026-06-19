@@ -12,3 +12,8 @@ list = [1, 2, 3, 4, 5]
 for i in list:   
     print(i)
 
+dict = {"a": 1, "b": 2, "c": 3}
+for i in dict:
+    print(i, dict[i])
+
+
