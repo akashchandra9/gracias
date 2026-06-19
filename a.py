@@ -4,6 +4,6 @@ obj = {"a": 1, "b": 2, "c": 3}
 for i,j in obj.items():
     print(i,j)
 
-tuple = (1, 2, 3, 4, 5)
-for i in tuple:
-    print(i)
+dict = {"name": "John", "age": 30, "city": "New York"}
+
+
